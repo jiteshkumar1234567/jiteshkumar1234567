@@ -1,121 +1,99 @@
-<h1 align="center">👨‍💻 Jitesh Kumar</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | DSA in C++</h3>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">⚡ Jitesh Kumar ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;DSA+with+C%2B%2B;Building+Real+World+Projects;Always+Learning+🚀" />
-</p>
-
----
-
-## 🧠 About Me
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-* 💻 Full Stack MERN Developer
-* 🚀 Passionate about building scalable & modern web apps
-* 🧠 Currently mastering **DSA using C++**
-* ⚡ Focused on backend + system design
-* 🎯 Goal: Crack high-level dev roles & build impactful products
-
----
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,postman,vercel,netlify" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 🏝 Wanderlust
-
-✨ Airbnb-like travel platform
-✔ Property Listings
-✔ Authentication System
-✔ Clean UI
-
----
-
-### 🛒 E-Commerce Store
-
-✨ Electronics shopping website
-✔ Cart & Checkout
-✔ Secure Auth
-✔ Product Management
-
----
-
-### 📊 Expense Tracker
-
-✨ MERN Dashboard
-✔ Income vs Expense
-✔ Savings Analytics
-✔ Interactive UI
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiteshkumar1234567&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jiteshkumar1234567&theme=radical&hide_border=true" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;DSA+with+C%2B%2B;Backend+Focused+Developer;Building+Scalable+Web+Apps;Consistency+%3E+Motivation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkumar1234567&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://komarev.com/ghpvc/?username=jiteshkumar1234567&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ================= ABOUT ================= -->
+
+## 🧑‍💻 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+
+* 💻 Full Stack Developer (MERN)
+* ⚙️ Backend & System Design Enthusiast
+* 🧠 Solving DSA using **C++**
+* 🚀 Building real-world scalable apps
+* 🎯 Target: Top Product-Based Companies
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,cpp,java,git,github,firebase,postman,vercel,netlify&perline=9" />
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Projects
+
+<div align="center">
+
+| Project                 | Description                                       |
+| ----------------------- | ------------------------------------------------- |
+| 🏝 **Wanderlust**       | Airbnb-style travel platform with auth & listings |
+| 🛒 **E-Commerce Store** | Shopping app with cart, auth & admin panel        |
+| 📊 **Expense Tracker**  | MERN dashboard with analytics                     |
+
+</div>
+
+---
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiteshkumar1234567&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=jiteshkumar1234567&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiteshkumar1234567&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jiteshkumar1234567&theme=algolia&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/Jitesh Kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:yjitesh3203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🧠 Current Focus
-
-🔥 DSA (C++)
-🔥 Advanced Backend
-🔥 System Design
-
----
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-  🚀 <b>"Consistency beats talent when talent doesn’t work hard."</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
 </p>
